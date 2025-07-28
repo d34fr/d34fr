@@ -1,16 +1,26 @@
-## Hi there 👋
+# 👋 Salut, moi c'est d34fr
 
-<!--
-**d34fr/d34fr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img align="right" width="250" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-Here are some ideas to get you started:
+## 🧠 À propos de moi
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 Je bosse sur des bots Discord & outils Node.js parfois Python
+- 💡 Passionné par l'automatisation
+- 💬 Contacte-moi en DM ou sur Discord: `d34fr`
+- 🌍 Je parle **français**, **anglais** et **code**
+
+---
+
+## 🔧 Compétences
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Discord.js](https://img.shields.io/badge/Discord.js-5865F2?style=for-the-badge&logo=discord&logoColor=white)
+
+---
+
+## 📈 Stats GitHub
+
+<img src="https://github-readme-stats.vercel.app/api?username=d34fr&show_icons=true&theme=radical" alt="stats" height="170">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=d34fr&layout=compact&theme=radical" height="170">
+
