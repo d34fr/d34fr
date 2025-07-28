@@ -3,9 +3,8 @@
 ## 🧠 À propos de moi
 
 - 🔭 Je bosse sur des bots Discord & outils Node.js parfois Python
-- 💡 Passionné par l'automatisation
 - 💬 Contacte-moi en DM ou sur Discord: `d34fr`
-- 🌍 Je parle **français**, **anglais** et **code**
+- 🌍 Je parle **français** et **anglais**
 
 ---
 
