@@ -1,4 +1,4 @@
-# 👋 Salut, moi c'est d34fr
+# 👋 Salut, moi c'est d34fr alias déa
 
 <img align="right" width="250" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
